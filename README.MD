@@ -28,10 +28,10 @@ export default class FooterTabsExample extends Component {
         <Footer>
           <FooterTab>
             <Button>
-              <Text>Email: abdulmoiz3210@gmail.com</Text>
+              <Text>Email: syedanwar016@gmail.com</Text>
             </Button>
             <Button>
-              <Text>Phone Number: 03069079397</Text>
+              <Text>Phone Number: 0301-8701382</Text>
             </Button>
             
            
